@@ -10,7 +10,7 @@
 
 - 📝 Check out my articles on medium [https://medium.com/@mattducrest](https://medium.com/@mattducrest)
 
-- 📫 How to reach me **matthieu.du-crest@hec.edu**
+- 📫 How to reach me **matducrest@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
